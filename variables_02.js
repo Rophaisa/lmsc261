@@ -39,16 +39,13 @@ let num2 = 20.5; //float
 print(num1 - num2); // 
 print(num1 * num2); //各种算法等等 + - * / 。。。。 */
 
-//Boolean
+
+//Boolean, ternary operators
+
 /*
 let myBodyAlcohoAmount = prompt("How much did you drink?")
 const drinkingLimit = 8;
 let didyouSeeMeDrunk = myBodyAlcohoAmount >= drinkingLimit;
-*/
-
-// ternary operators
-
-/*
 print("Did you see me drunk?")
 print(didyouSeeMeDrunk);
 
