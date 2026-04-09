@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(255, 199, 199);
+    font-family:'Lucida Sans';
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+}
+
