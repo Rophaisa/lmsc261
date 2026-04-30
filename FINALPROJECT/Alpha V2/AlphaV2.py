@@ -20,7 +20,7 @@ bg_label.place(x=0, y=0, relwidth=1, relheight=1)
 def eat():
     print("Eat button clicked")
 
-eat_button = tk.Button(root, text="Eat", command=eat)
+eat_button = tk.Button(root, text="Eat", command=eat, font=("#ffffff", 12, ), fg="white", bg="orange")
 eat_button.place(x=150, y=265)
 
 #sleep
